@@ -2,7 +2,7 @@
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python,matlab,PLC ladder programming
 - 💞️ I’m looking to collaborate on Industrial automation projects
-- 📫 How to reach me-zeaurrahamanru@gmail.com
+- 📫 How to reach me--zeaurrahamanru@gmail.com
 - ⚡ Fun fact: I don't bite
 
 <!---
